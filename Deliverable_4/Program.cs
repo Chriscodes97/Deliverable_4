@@ -1,7 +1,7 @@
 ﻿/*
   Program Author: Chris Parrado
   Date: 2/7/23
-  Program description: C# application that demonstrate the use of arrays after getting input from users.
+  Program description: C# application that demonstrate the use of arrays to get fibonacci sequence.
 */
 using System;
 namespace Deliverable_4
